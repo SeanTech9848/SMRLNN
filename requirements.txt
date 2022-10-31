@@ -1,0 +1,16 @@
+bleach
+enum34
+html5lib
+importlib-metadata
+joblib
+Markdown
+numpy
+protobuf
+scikit-learn
+scipy
+six
+sklearn
+tensorflow
+tensorflow-tensorboard
+Werkzeug
+zipp
